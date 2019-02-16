@@ -14,3 +14,11 @@ En otra terminal
 
 Ir a 
 `http://localhost:4200/`
+
+#### Angular Cli 
+https://angular.io/cli
+`npm install -g @angular/cli`
+### Tarea 
+
+Crear un Proyecto 
+`ng new nuevoProyecto`
