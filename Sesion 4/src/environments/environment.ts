@@ -5,12 +5,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyCwbTeEFAVchR_KEQ_0K5sjLN-Ba0Aczb8',
-    authDomain: 'angular-demo-97651.firebaseapp.com',
-    databaseURL: 'https://angular-demo-97651.firebaseio.com',
-    projectId: 'angular-demo-97651',
-    storageBucket: 'angular-demo-97651.appspot.com',
-    messagingSenderId: '636923987077'
+    apiKey: 'PUT YOUR CREDENCIALS HERE',
+    authDomain: 'PUT YOUR CREDENCIALS HERE',
+    databaseURL: 'PUT YOUR CREDENCIALS HERE',
+    projectId: 'PUT YOUR CREDENCIALS HERE',
+    storageBucket: 'PUT YOUR CREDENCIALS HERE',
+    messagingSenderId: 'PUT YOUR CREDENCIALS HERE'
   }
 };
 
